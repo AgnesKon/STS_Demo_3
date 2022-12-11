@@ -1,0 +1,1833 @@
+body {
+  font-family: "Montserrat";
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+h2 {
+  font-family: "Monserrat", sans-serif;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+h3 {
+  font-family: 'Monserrat', sans-serif;
+  font-size: 1rem;
+  font-weight: 900;
+}
+
+h4 {
+  font-family: 'Monserrat', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 900;
+}
+
+h5 {
+  font-family: 'Monserrat', sans-serif;
+  font-weight: 900;
+}
+
+em {
+  color: #F5EDED;
+  font-family: 'Monserrat', sans-serif;
+  font-size: 1rem;
+  font-weight: 900;
+}
+
+p {
+  color: #3E3636;
+}
+
+hr {
+  border: dotted #F5EDED 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+/* Headings */
+
+#title {
+  background-color: white;
+  color: black;
+}
+
+.container-fluid {
+  padding: 3% 5%;
+}
+
+/* Navigation Bar */
+
+.navbar {
+  padding: 0 0 2.5rem;
+}
+
+.navbar-brand {
+  font-family: "Monserrat";
+  font-size: 1.5rem;
+  font-weight: 900;
+}
+
+.navbar-toggler {
+  background-color: black;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Monserrat";
+  color: black;
+  font-weight: 900;
+}
+
+.bs-nav-link-hover-color {
+  color: black;
+}
+
+/* Bemutatkozas */
+
+.Bemutatkozas {
+  padding-bottom: 25px;
+}
+
+.Bemutatkozas-end {
+  padding-bottom: 25px;
+}
+
+/* Downloads Buttons */
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Title Section */
+
+.logo {
+  float: right;
+  width: 550px;
+}
+
+.button2 {
+  margin-left: 20px;
+}
+
+/* Test */
+
+.column-one {
+  background-color: #F5EDED;
+  border: 2px solid #414547;
+  margin-bottom: 15px;
+}
+
+/* Idopont page */
+
+#Contact-Us {
+  background-image: linear-gradient(0deg, #990000, black 40%, #F5EDED);
+  text-align: center;
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
+
+.idopont-egyeztetes {
+  padding-bottom: 50px;
+}
+
+/* .nev {
+  margin-bottom: 5px;
+}
+
+.e-mail {
+  margin-bottom: 5px;
+}
+
+.telefon {
+  margin-bottom: 10px;
+}
+
+.uzenet {
+  margin-bottom: 15px;
+} */
+
+/* .Nev {
+  color: black;
+  font-weight: 900;
+  margin-top: 15px;
+}
+
+.Nev-input {
+  background-color: #F5EDED;
+  outline: none;
+  border: 2px solid #414547;
+  margin-left: 24px;
+  margin-bottom: 15px;
+}
+
+.Email {
+  color: black;
+  font-weight: 900;
+}
+
+.Email-input {
+  align-items: center;
+  background-color: #F5EDED;
+  outline: none;
+  border: 2px solid #414547;
+  margin-left: 10px;
+}
+
+.Uzenet {
+  color: black;
+  font-weight: 900;
+} */
+
+/* textarea {
+  background-color: #F5EDED;
+  outline: none;
+  border: 2px solid #414547;
+} */
+
+/* .btn-idopont {
+  background: black;
+  background-image: -webkit-linear-gradient(top, black, #F5EDED);
+  background-image: -moz-linear-gradient(top, black, #F5EDED);
+  background-image: -ms-linear-gradient(top, black, #F5EDED);
+  background-image: -o-linear-gradient(top, black, #F5EDED);
+  background-image: linear-gradient(to bottom, black, #F5EDED);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+}
+
+.btn-idopont:hover {
+  background: #F5EDED;
+  background-image: -webkit-linear-gradient(top, #F5EDED, #66cc00);
+  background-image: -moz-linear-gradient(top, #F5EDED, #66cc00);
+  background-image: -ms-linear-gradient(top, #F5EDED, #66cc00);
+  background-image: -o-linear-gradient(top, #F5EDED, #66cc00);
+  background-image: linear-gradient(to bottom, #F5EDED, #66cc00);
+  text-decoration: none;
+} */
+
+/* Kerek es gumicserek section */
+
+#hasznos-tudnivalok {
+  background-image: linear-gradient(0deg, #990000, black 40%, #F5EDED);
+  text-align: center;
+  padding-bottom: 50px;
+  padding-top: 5px;
+}
+
+.hasznos-tudnivalok-h3a {
+  color: black;
+  font-weight: 900;
+}
+
+.hasznos-tudnivalok-h3b {
+  color: black;
+  font-weight: 900;
+}
+
+.hasznos-tudnivalok-h3c {
+  color: #F5EDED;
+  font-weight: 900;
+}
+
+.hasznos-tudnivalok-p1 {
+  color: black;
+}
+
+.hasznos-tudnivalok-p2 {
+  color: #F5EDED;
+}
+
+.hasznos-tudnivalok-p3 {
+  color: #F5EDED;
+}
+
+/* .hasznos-tudnivalok {
+  margin: 100px 0;
+  margin: 0;
+  text-align: center;
+} */
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+}
+
+.Jeep-kerekszervizeles {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  outline: none;
+  border: 10px solid #F5EDED;
+  font-size: 1.2rem;
+  font-family: 'Montserrat', cursive;
+  line-height: 2;
+}
+
+.Kerekkiegyensulyozas {
+  width: 28%;
+  float: left;
+  margin-right: 30px;
+  outline: none;
+  border: 10px solid #F5EDED;
+  font-size: 1.2rem;
+  font-family: 'Montserrat', cursive;
+  line-height: 2;
+}
+
+.Kerek-mosas {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  outline: none;
+  border: 10px solid #F5EDED;
+  font-size: 1.2rem;
+  font-family: 'Montserrat', cursive;
+  line-height: 2;
+}
+
+.code-skill-description {
+  clear: right;
+  padding-bottom: 10px;
+}
+
+/* Arlista Page Secttion */
+
+/* #arlista {
+  background-image: linear-gradient(0deg, #990000, black 40%, #F5EDED);
+  text-align: center;
+  padding-bottom: 3%;
+  padding-top: 3%;
+} */
+
+/* Features Section */
+
+#features {
+  background-color: #F5EDED;
+  padding: 0.5% 7.5%;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.feature-button {
+  margin-top: 2rem;
+}
+
+.feature-button2 {
+  margin-top: 0.5rem;
+}
+
+.feature-button3 {
+  margin-top: 2rem;
+}
+
+.icon {
+  color: #3E3636;
+  margin-bottom: 1rem;
+}
+
+.icon-middle {
+  color: black;
+  margin-bottom: 1rem;
+}
+
+.icon-right {
+  color: #3E3636;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #66cc00;
+}
+
+.icon-middle:hover {
+  color: #990000;
+}
+
+.icon-right:hover {
+  color: #66cc00;
+}
+
+/* Highlights */
+
+#highlights {
+  background-image: linear-gradient(0deg, #990000, black 40%, #F5EDED);
+  text-align: center;
+  padding-bottom: 3%;
+  padding-top: 3%;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.highlights-felni {
+  outline: none;
+  border: 10px solid #F5EDED;
+  font-size: 1.2rem;
+  font-family: 'Montserrat', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #F5EDED;
+  text-shadow: 3px 0 black;
+  border-radius: 15px;
+  display: run-in;
+  height: 300px;
+  text-align: inherit;
+  background-size: cover;
+  resize: both;
+  width: 22%;
+  margin: 20px 15px 20px;
+}
+
+.highlights-tire {
+  outline: none;
+  border: 10px solid #F5EDED;
+  font-size: 1.2rem;
+  font-family: 'Montserrat', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #F5EDED;
+  text-shadow: 3px 0 #990000;
+  border-radius: 15px;
+  display: run-in;
+  height: 300px;
+  text-align: inherit;
+  background-size: cover;
+  resize: both;
+  width: 24%;
+  margin: 20px 15px 20px;
+}
+
+.highlights-kerekszervizeles {
+  outline: none;
+  border: 10px solid #F5EDED;
+  font-size: 1.2rem;
+  font-family: 'Montserrat', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #F5EDED;
+  text-shadow: 3px 0 #990000;
+  border-radius: 15px;
+  display: run-in;
+  height: 300px;
+  text-align: inherit;
+  background-size: cover;
+  resize: both;
+  width: 20%;
+  margin: 20px 15px 20px;
+}
+
+.highlights-Tire-services {
+  outline: none;
+  border: 10px solid #F5EDED;
+  font-size: 1.2rem;
+  font-family: 'Montserrat', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #F5EDED;
+  text-shadow: 3px 0 black;
+  border-radius: 15px;
+  display: run-in;
+  height: 300px;
+  text-align: inherit;
+  background-size: cover;
+  resize: both;
+  width: 20%;
+  margin: 20px 15px 20px;
+}
+
+/* .highlights-Mobil {
+  outline: none;
+  border: 10px solid #F5EDED;
+  font-size: 1.2rem;
+  font-family: 'Montserrat', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #F5EDED;
+  text-shadow: 3px 0 #990000;
+  border-radius: 15px;
+  display: run-in;
+  height: 300px;
+  text-align: inherit;
+  margin: 10px;
+  background-image: url("C:/Users/Agi/Desktop/Web Development/Saving Time Service Website/images/Kerekszervizeles 4.JPG");
+  background-size: cover;
+  resize: both;
+  width: 20%;
+  margin: 20px 15px 20px;
+} */
+
+/* Testimonial Section */
+
+#testimonials {
+  text-align: center;
+  background-image: linear-gradient(0deg, #F5EDED, black 40%, #990000);
+  color: black;
+}
+
+.testimonials {
+  color: black;
+  text-align: center;
+  padding-bottom: 100px;
+}
+
+.testimonial-image {
+  width: 300px;
+  border-radius: 20%;
+  margin: 20px;
+  outline: none;
+  border: 5px solid #F5EDED;
+}
+
+.testimonial-image2 {
+  width: 300px;
+  border-radius: 20%;
+  margin: 20px;
+  outline: none;
+  border: 5px solid #F5EDED;
+}
+
+.testimonial-image3 {
+  width: 350px;
+  border-radius: 20%;
+  margin: 20px;
+  outline: none;
+  border: 5px solid #F5EDED;
+}
+
+.testimonial-image4 {
+  width: 250px;
+  border-radius: 20%;
+  margin: 20px;
+  outline: none;
+  border: 5px solid #F5EDED;
+}
+
+.testimonial-image5 {
+  width: 350px;
+  border-radius: 20%;
+  margin: 20px;
+  outline: none;
+  border: 5px solid #F5EDED;
+}
+
+.testimonial-image6 {
+  width: 300px;
+  border-radius: 20%;
+  margin: 20px;
+  outline: none;
+  border: 5px solid #F5EDED;
+}
+
+.testimonial-image7 {
+  width: 250px;
+  border-radius: 20%;
+  margin: 20px;
+  outline: none;
+  border: 5px solid #F5EDED;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+#press {
+  background-color: white;
+  text-align: center;
+  padding-top: 3%;
+  padding-bottom: 1.5%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.press {
+  color: #3E3636;
+}
+
+/* Test */
+
+.py-4 {
+  text-align: left;
+}
+
+/* Pricing Section */
+
+#szolgaltatasaink {
+  padding: 25px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.card-header {
+  background-color: #F5EDED;
+}
+
+.h2-pricing {
+  padding-bottom: 25px;
+}
+
+/* CTA Section */
+
+#cta {
+  background-color: black;
+  color: #f4f4f4;
+  padding: 0.5% 15% 0.5%;
+  height: 273.46876px;
+  text-align: center;
+}
+
+.cta-heading {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  font-weight: 900;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  color: #f4f4f4;
+}
+
+.cta-h3 {
+  padding-top: 10px;
+}
+
+/* Portfolio section */
+
+#Portfolio {
+  /* background-color: #f4f4f4; */
+  text-align: center;
+  /* padding-bottom: 1.5%;
+  padding-top: 1.5%; */
+  background-image: linear-gradient(0deg, #990000, black 40%, #F5EDED);
+  padding-bottom: 25px;
+  padding-top: 50px;
+}
+
+.Portfolio {
+  color: #3E3636;
+  padding-bottom: 25px;
+}
+
+.Portfolio-felni {
+  color: #F5EDED;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.portfolio1 {
+  align-items: center;
+  width: 32%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.portfolio2 {
+  align-items: center;
+  width: 19.5%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.portfolio3 {
+  align-items: center;
+  width: 22.5%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.portfolio4 {
+  align-items: center;
+  width: 21.5%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.portfolio5 {
+  align-items: center;
+  width: 32.5%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.portfolio6 {
+  align-items: center;
+  width: 14%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.portfolio7 {
+  align-items: center;
+  width: 20.8%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.portfolio8 {
+  align-items: center;
+  width: 25%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.portfolio9 {
+  align-items: center;
+  width: 27.5%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.portfolio10 {
+  align-items: center;
+  width: 21.5%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.portfolio11 {
+  align-items: center;
+  width: 25%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.portfolio12 {
+  align-items: center;
+  width: 16%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.portfolio13 {
+  align-items: center;
+  width: 28.5%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.portfolio14 {
+  align-items: center;
+  width: 29%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.portfolio15 {
+  align-items: center;
+  width: 27.2%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.portfolio16 {
+  align-items: center;
+  width: 33.5%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.portfolio17 {
+  align-items: center;
+  width: 21.5%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.portfolio18 {
+  align-items: center;
+  width: 33.5%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.portfolio19 {
+  align-items: center;
+  width: 20%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.Portfolio-kerek-mosas {
+  color: #F5EDED;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.kerek-mosas1 {
+  align-items: center;
+  width: 16%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.kerek-mosas2 {
+  align-items: center;
+  width: 16%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.kerek-mosas3 {
+  align-items: center;
+  width: 16%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.kerek-mosas4 {
+  align-items: center;
+  width: 16%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.kerek-mosas5 {
+  align-items: center;
+  width: 16%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.felni1 {
+  align-items: center;
+  width: 14.2%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.felni2 {
+  align-items: center;
+  width: 15.5%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.felni3 {
+  align-items: center;
+  width: 20.9%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.felni4 {
+  align-items: center;
+  width: 20.4%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.felni5 {
+  align-items: center;
+  width: 21%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.felni6 {
+  align-items: center;
+  width: 15.8%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.felni7 {
+  align-items: center;
+  width: 20%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.felni8 {
+  align-items: center;
+  width: 19%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.felni9 {
+  align-items: center;
+  width: 20%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.felni10 {
+  align-items: center;
+  width: 19%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+/* Tires */
+
+#Tires {
+  background-image: linear-gradient(0deg, #F5EDED, black 40%, #990000);
+  text-align: center;
+  padding-bottom: 25px;
+  padding-top: 10px;
+}
+
+.Tires {
+  color: black;
+  padding-bottom: 25px;
+}
+
+.Tire1 {
+  align-items: center;
+  width: 16%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.Tire2 {
+  align-items: center;
+  width: 16%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.Tire3 {
+  align-items: center;
+  width: 16%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.Tire4 {
+  align-items: center;
+  width: 16%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.Tire5 {
+  align-items: center;
+  width: 16%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.Tire6 {
+  align-items: center;
+  width: 13.5%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.Tire7 {
+  align-items: center;
+  width: 16%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.Tire8 {
+  align-items: center;
+  width: 16%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.Tire9 {
+  align-items: center;
+  width: 16%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.Tire10 {
+  align-items: center;
+  width: 21%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.Tire11 {
+  align-items: center;
+  width: 16%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.Tire12 {
+  align-items: center;
+  width: 16%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.Tire13 {
+  align-items: center;
+  width: 16%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.Tire14 {
+  align-items: center;
+  width: 17.5%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.Tire15 {
+  align-items: center;
+  width: 22%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+/* Sets Section */
+
+/* #Sets {
+  background-color: #f4f4f4;
+  text-align: center;
+  padding-bottom: 1.5%;
+  padding-top: 1.5%;
+} */
+
+.Sets1 {
+  width: 30%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+.Sets2 {
+  width: 30%;
+  margin: 10px 15px 25px;
+  outline: none;
+  border: 2px solid #3E3636;
+}
+
+/* Footer Section */
+
+#elerhetoseg {
+  background-color: #F5EDED;
+  padding: 3.5% 15%;
+  text-align: center;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+.fa-facebook {
+  color: #3E3636;
+}
+
+.fa-facebook:hover {
+  color: #66cc00;
+}
+
+.fa-envelope {
+  color: #3E3636;
+}
+
+.fa-envelope:hover {
+  color: #66cc00;
+}
+
+.copyright-footer {
+  color: black;
+  font-size: 0.8rem;
+}
+
+/* Footer-Arlista-Page */
+
+#elerhetoseg-szolgaltatasaink {
+  background-color: black;
+  padding: 3.5% 15%;
+  text-align: center;
+}
+
+.facebook-arlista {
+  color: #F5EDED;
+}
+
+.facebook-arlista:hover {
+  color: #66cc00;
+}
+
+.envelope-arlista {
+  color: #F5EDED;
+}
+
+.fa-envelope:hover {
+  color: #66cc00;
+}
+
+.copyright-footer-arlista {
+  color: #F5EDED;
+  font-size: 0.8rem;
+}
+
+/* Smaller then Desktop screen adjustment section */
+
+@media (max-width: 1028px) {
+
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+  }
+
+  .navbar {
+    padding: 0 0 2.5rem;
+  }
+
+  .Bemutatkozas {
+    padding-top: 40px;
+  }
+
+  .col-lg-6 {
+    padding-bottom: 25px;
+  }
+
+  .logo {
+    float: inherit;
+    padding-top: 5px;
+    width: 350px;
+  }
+
+  .feature-button {
+    margin-top: 2rem;
+  }
+
+  .feature-button2 {
+    margin-top: 0.5rem;
+  }
+
+  .feature-button3 {
+    margin-top: 1.75rem;
+  }
+
+  .highlights-felni {
+    outline: none;
+    border: 5px solid #F5EDED;
+    font-size: 1.2rem;
+    font-family: 'Montserrat', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #F5EDED;
+    text-shadow: 3px 0 black;
+    border-radius: 15px;
+    display: run-in;
+    height: 210px;
+    text-align: inherit;
+    background-image: #3E3636;
+    background-size: cover;
+    resize: both;
+    width: auto;
+    margin: 20px 15px 20px;
+  }
+
+  .highlights-tire {
+    outline: none;
+    border: 5px solid #F5EDED;
+    font-size: 1.2rem;
+    font-family: 'Montserrat', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #F5EDED;
+    text-shadow: 3px 0 #990000;
+    border-radius: 15px;
+    display: run-in;
+    height: 210px;
+    text-align: inherit;
+    background-image: #3E3636;
+    background-size: cover;
+    resize: both;
+    width: auto;
+    margin: 20px 15px 20px;
+  }
+
+  .highlights-kerekszervizeles {
+    outline: none;
+    border: 5px solid #F5EDED;
+    font-size: 1.2rem;
+    font-family: 'Montserrat', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #F5EDED;
+    text-shadow: 3px 0 #990000;
+    border-radius: 15px;
+    display: run-in;
+    height: 210px;
+    text-align: inherit;
+    background-image: #3E3636;
+    background-size: cover;
+    resize: both;
+    width: auto;
+    margin: 20px 15px 20px;
+  }
+
+  .highlights-Tire-services {
+    outline: none;
+    border: 5px solid #F5EDED;
+    font-size: 1.2rem;
+    font-family: 'Montserrat', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #F5EDED;
+    text-shadow: 3px 0 black;
+    border-radius: 15px;
+    display: run-in;
+    height: 210px;
+    text-align: inherit;
+    background-image: #3E3636;
+    background-size: cover;
+    resize: both;
+    width: auto;
+    margin: 20px 15px 20px;
+  }
+
+  /* .highlights-Mobil {
+    outline: none;
+    border: 5px solid #F5EDED;
+    font-size: 1.2rem;
+    font-family: 'Montserrat', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #F5EDED;
+    text-shadow: 3px 0 #990000;
+    border-radius: 15px;
+    display: run-in;
+    height: 210px;
+    text-align: inherit;
+    margin: 10px;
+    background-image: #3E3636;
+    background-size: cover;
+    resize: both;
+    width: auto;
+    margin: 20px 15px 20px;
+  } */
+
+  .testimonials {
+    color: black;
+    text-align: center;
+    padding-bottom: 10px;
+  }
+
+  em {
+    color: #f4f4f4;
+    font-size: 0.8rem;
+  }
+
+  .testimonial-image {
+    width: 150px;
+    border-radius: 20%;
+    margin: 10px;
+  }
+
+  .testimonial-image2 {
+    width: 150px;
+    border-radius: 20%;
+    margin: 10px;
+  }
+
+  .testimonial-image3 {
+    width: 175px;
+    border-radius: 20%;
+    margin: 10px;
+  }
+
+  .testimonial-image4 {
+    width: 150px;
+    border-radius: 20%;
+    margin: 10px;
+  }
+
+  .testimonial-image5 {
+    width: 175px;
+    border-radius: 20%;
+    margin: 10px;
+  }
+
+  .testimonial-image6 {
+    width: 150px;
+    border-radius: 20%;
+    margin: 10px;
+  }
+
+  .testimonial-image7 {
+    width: 125px;
+    border-radius: 20%;
+    margin: 10px;
+  }
+
+  .press-logo {
+    width: 30%;
+    margin: 10px 10px 25px;
+  }
+
+  #szolgaltatasaink {
+    padding-top: 12.5px;
+    padding-bottom: 50px;
+    text-align: center;
+  }
+
+  .Felni {
+    width: 41%;
+    margin: 10px 7.5px 25px;
+  }
+
+  .Tire {
+    width: 37.5%;
+    margin: 10px 7.5px 25px;
+  }
+
+  .Jeep-kerekszervizeles {
+    width: 40%;
+    margin: 10px 0 25px;
+  }
+
+  .Kiszallasos-szerviz {
+    width: 40%;
+    margin: 10px 7.5px 25px;
+  }
+
+  .Tire-services {
+    width: 40%;
+    margin: 10px 7.5px 25px;
+  }
+
+  .Portfolio {
+    color: #3E3636;
+    padding-bottom: 25px;
+  }
+
+  .Portfolio-felni {
+    color: #F5EDED;
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+
+  .portfolio1 {
+    align-items: center;
+    width: 65%;
+    height: auto;
+    margin: 2.5px 15px 25px;
+    outline: none;
+    border: 2px solid #3E3636;
+  }
+
+  .portfolio2 {
+    align-items: center;
+    width: 65%;
+    height: auto;
+    margin: 2.5px 15px 25px;
+    outline: none;
+    border: 2px solid #3E3636;
+  }
+
+  .portfolio3 {
+    align-items: center;
+    width: 65%;
+    height: 250px;
+    margin: 2.5px 15px 25px;
+    outline: none;
+    border: 2px solid #3E3636;
+  }
+
+  .portfolio4 {
+    align-items: center;
+    width: 65%;
+    height: 250px;
+    margin: 2.5px 15px 25px;
+    outline: none;
+    border: 2px solid #3E3636;
+  }
+
+  .portfolio5 {
+    align-items: center;
+    width: 65%;
+    height: auto;
+    margin: 2.5px 15px 25px;
+    outline: none;
+    border: 2px solid #3E3636;
+  }
+
+  .portfolio6 {
+    align-items: center;
+    width: 35.8%;
+    height: auto;
+    margin: 2.5px 15px 25px;
+    outline: none;
+    border: 2px solid #3E3636;
+  }
+
+  .portfolio7 {
+    align-items: center;
+    width: 65%;
+    height: auto;
+    margin: 2.5px 15px 25px;
+    outline: none;
+    border: 2px solid #3E3636;
+  }
+
+  .portfolio8 {
+    align-items: center;
+    width: 65%;
+    height: auto;
+    margin: 2.5px 15px 25px;
+    outline: none;
+    border: 2px solid #3E3636;
+  }
+
+  .portfolio9 {
+    align-items: center;
+    width: 65%;
+    height: auto;
+    margin: 2.5px 15px 25px;
+    outline: none;
+    border: 2px solid #3E3636;
+  }
+
+  .portfolio10 {
+    align-items: center;
+    width: 65%;
+    height: auto;
+    margin: 2.5px 15px 25px;
+    outline: none;
+    border: 2px solid #3E3636;
+  }
+
+  .portfolio11 {
+    align-items: center;
+    width: 65%;
+    height: auto;
+    margin: 2.5px 15px 25px;
+    outline: none;
+    border: 2px solid #3E3636;
+  }
+
+  .portfolio12 {
+    align-items: center;
+    width: 35.8%;
+    height: auto;
+    margin: 2.5px 7.5px 25px;
+    outline: none;
+    border: 2px solid #3E3636;
+  }
+
+  .portfolio13 {
+    align-items: center;
+    width: 65%;
+    height: auto;
+    margin: 2.5px 7.5px 25px;
+    outline: none;
+    border: 2px solid #3E3636;
+  }
+
+  .portfolio14 {
+    align-items: center;
+    width: 65%;
+    height: auto;
+    margin: 2.5px 7.5px 25px;
+    outline: none;
+    border: 2px solid #3E3636;
+  }
+
+  .portfolio15 {
+    align-items: center;
+    width: 65%;
+    height: auto;
+    margin: 2.5px 7.5px 25px;
+    outline: none;
+    border: 2px solid #3E3636;
+  }
+
+  .portfolio16 {
+    align-items: center;
+    width: 65%;
+    height: auto;
+    margin: 2.5px 7.5px 25px;
+    outline: none;
+    border: 2px solid #3E3636;
+  }
+
+  .portfolio17 {
+    align-items: center;
+    width: 35.8%;
+    height: auto;
+    margin: 2.5px 7.5px 25px;
+    outline: none;
+    border: 2px solid #3E3636;
+  }
+
+  .portfolio18 {
+    align-items: center;
+    width: 65%;
+    height: auto;
+    margin: 2.5px 7.5px 25px;
+    outline: none;
+    border: 2px solid #3E3636;
+  }
+
+  .portfolio19 {
+    align-items: center;
+    width: 35.8%;
+    height: auto;
+    margin: 2.5px 7.5px 25px;
+    outline: none;
+    border: 2px solid #3E3636;
+  }
+
+  .kerek-mosas1 {
+    align-items: center;
+    width: 40%;
+    height: 250px;
+    margin: 2.5px 7.5px 25px;
+    outline: none;
+    border: 2px solid #3E3636;
+  }
+
+  .kerek-mosas2 {
+    align-items: center;
+    width: 40%;
+    height: 250px;
+    margin: 2.5px 7.5px 25px;
+    outline: none;
+    border: 2px solid #3E3636;
+  }
+
+  .kerek-mosas3 {
+    align-items: center;
+    width: 40%;
+    height: 250px;
+    margin: 2.5px 7.5px 25px;
+    outline: none;
+    border: 2px solid #3E3636;
+  }
+
+  .kerek-mosas4 {
+    align-items: center;
+    width: 40%;
+    height: 250px;
+    margin: 2.5px 7.5px 25px;
+    outline: none;
+    border: 2px solid #3E3636;
+  }
+
+  .kerek-mosas5 {
+    align-items: center;
+    width: 40%;
+    height: 250px;
+    margin: 2.5px 7.5px 25px;
+    outline: none;
+    border: 2px solid #3E3636;
+  }
+
+  .felni1 {
+    width: 40%;
+    height: 250px;
+    margin: 2.5px 7.5px 25px;
+  }
+
+  .felni2 {
+    width: 40%;
+    height: 250px;
+    margin: 2.5px 7.5px 25px;
+  }
+
+  .felni3 {
+    width: 40%;
+    height: 250px;
+    margin: 2.5px 7.5px 25px;
+  }
+
+  .felni4 {
+    width: 40%;
+    height: 250px;
+    margin: 2.5px 7.5px 25px;
+  }
+
+  .felni5 {
+    width: 40%;
+    height: 250px;
+    margin: 2.5px 7.5px 25px;
+  }
+
+  .felni6 {
+    width: 40%;
+    height: 250px;
+    margin: 2.5px 7.5px 25px;
+  }
+
+  .felni7 {
+    width: 40%;
+    height: 250px;
+    margin: 2.5px 7.5px 25px;
+  }
+
+  .felni8 {
+    width: 40%;
+    height: 250px;
+    margin: 2.5px 7.5px 25px;
+  }
+
+  .felni9 {
+    width: 40%;
+    height: 250px;
+    margin: 2.5px 7.5px 25px;
+  }
+
+  .felni10 {
+    width: 40%;
+    height: 250px;
+    margin: 2.5px 7.5px 25px;
+  }
+
+  .Tire1 {
+    width: 40%;
+    margin: 2.5px 7.5px 25px;
+  }
+
+  .Tire2 {
+    width: 40%;
+    margin: 2.5px 7.5px 25px;
+  }
+
+  .Tire3 {
+    width: 40%;
+    margin: 2.5px 7.5px 25px;
+  }
+
+  .Tire4 {
+    width: 40%;
+    margin: 2.5px 7.5px 25px;
+  }
+
+  .Tire5 {
+    width: 40%;
+    margin: 2.5px 7.5px 25px;
+  }
+
+  .Tire6 {
+    width: 40%;
+    height: 255px;
+    margin: 2.5px 7.5px 25px;
+  }
+
+  .Tire7 {
+    width: 40%;
+    margin: 2.5px 7.5px 25px;
+  }
+
+  .Tire8 {
+    width: 40%;
+    margin: 2.5px 7.5px 25px;
+  }
+
+  .Tire9 {
+    width: 40%;
+    margin: 2.5px 7.5px 25px;
+  }
+
+  .Tire10 {
+    width: 40%;
+    height: 255px;
+    margin: 2.5px 7.5px 25px;
+  }
+
+  .Tire11 {
+    width: 40%;
+    margin: 2.5px 7.5px 25px;
+  }
+
+  .Tire12 {
+    width: 40%;
+    margin: 2.5px 7.5px 25px;
+  }
+
+  .Tire13 {
+    width: 40%;
+    margin: 2.5px 7.5px 25px;
+  }
+
+  .Tire14 {
+    width: 40%;
+    height: 255px;
+    margin: 2.5px 7.5px 25px;
+  }
+
+  .Tire15 {
+    width: 40%;
+    height: 225px;
+    margin: 2.5px 7.5px 25px;
+  }
+
+  .Sets1 {
+    width: 70%;
+    margin: 2.5px 7.5px 25px;
+  }
+
+  .Sets2 {
+    width: 70%;
+    margin: 2.5px 7.5px 50px;
+  }
+
+  #hasznos-tudnivalok {
+    background-image: linear-gradient(0deg, #990000, black 40%, #F5EDED);
+    text-align: center;
+    padding-bottom: 25px;
+    padding-top: 25px;
+  }
+
+  .hasznos-tudnivalok {
+    margin: 50px 0;
+    text-align: center;
+  }
+
+  .skill-row {
+    width: 80%;
+    margin: 25px auto 50px auto;
+    text-align: left;
+  }
+
+  .skill-row-2 {
+    width: 80%;
+    margin: 25px auto 50px auto;
+    text-align: right;
+  }
+
+  .skill-row-3 {
+    width: 80%;
+    margin: 25px auto 25px auto;
+    text-align: left;
+  }
+
+  .Jeep-kerekszervizeles {
+    width: 30%;
+    height: auto;
+    float: right;
+    margin-top: 0;
+    margin-left: 25px;
+    margin-bottom: 25px;
+    outline: none;
+    border: 5px solid #F5EDED;
+    font-size: 1.2rem;
+    font-family: 'Montserrat', cursive;
+    line-height: 2;
+  }
+
+  .Kerekkiegyensulyozas {
+    width: 30%;
+    height: auto;
+    float: left;
+    margin-top: 0;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    outline: none;
+    border: 5px solid #F5EDED;
+    font-size: 1.2rem;
+    font-family: 'Montserrat', cursive;
+    line-height: 2;
+  }
+
+  .Kerek-mosas {
+    width: 30%;
+    height: auto;
+    float: right;
+    margin-top: 0;
+    margin-left: 25px;
+    margin-bottom: 25px;
+    outline: none;
+    border: 5px solid #F5EDED;
+    font-size: 1.2rem;
+    font-family: 'Montserrat', cursive;
+    line-height: 2;
+  }
+
+  #cta {
+    background-color: black;
+    color: #f4f4f4;
+    padding: 0.5% 15% 0.5%;
+    height: auto;
+    text-align: center;
+  }
+
+  .cta-h3 {
+    padding-top: 5px;
+  }
+
+}
